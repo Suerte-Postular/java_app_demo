@@ -1,1 +1,1 @@
-# java-app-demo
+# java_app_demo
